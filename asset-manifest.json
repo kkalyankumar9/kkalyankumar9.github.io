@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.8c89cac0.js",
+    "main.js": "/static/js/main.1bac757d.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/City_Shop.png": "/static/media/City_Shop.7765270ff0fd12953e94.png",
     "static/media/studyverse.png": "/static/media/studyverse.dc6a296d9d81f80b451c.png",
@@ -9,21 +9,21 @@
     "static/media/FinTech.png": "/static/media/FinTech.ace89001ab53bccdae46.png",
     "static/media/flipkart.png": "/static/media/flipkart.db7bb72190a59577fd70.png",
     "static/media/react.png": "/static/media/react.fb59dfc6bb1bac6b0ad0.png",
+    "static/media/kalyan_profile.png": "/static/media/kalyan_profile.6a13b93354641d0e56bb.png",
     "static/media/system logo.jpg": "/static/media/system logo.db3f0f42df6eb1ba1af1.jpg",
     "static/media/Typescript_logo_2020.svg.png": "/static/media/Typescript_logo_2020.svg.659e4b9351cf1baa6930.png",
     "static/media/redux (1).png": "/static/media/redux (1).0ae06ac2510da8b45829.png",
     "static/media/node.png": "/static/media/node.07f809fdfbd8d76347df.png",
     "static/media/mongo.png": "/static/media/mongo.4370f3efe2572c324ec6.png",
-    "static/media/kalyan_profile.jpeg": "/static/media/kalyan_profile.47c1df9a77170c678b7b.jpeg",
     "static/media/css.png": "/static/media/css.286a9900f844f7c0ed5f.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.8c89cac0.js.map": "/static/js/main.8c89cac0.js.map",
+    "main.1bac757d.js.map": "/static/js/main.1bac757d.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8c89cac0.js"
+    "static/js/main.1bac757d.js"
   ]
 }
